@@ -29,22 +29,41 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-
+* Arduino Web Editor IDE (programmed in C++)
+* TinkerCad (Circuits simulation portion, which has simulated Arduinos that can be programmed in C++ or blocks)
+* [Elegoo Uno Super Starter Kit](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit) and 9V batteries
+* Google classroom
+* Smartphones to film projects
+* Laser cutter and 3D printer
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
-
+* [Mike Zitalo's Website and tutorials](https://sites.google.com/view/zphysics/arduino-page?authuser=0)
+* [Sparkfun tutorials](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics)
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total length: 2 Weeks
+* Lesson 1: Intro to Motors
+* Lesson 2-3: Hobby Motors
+* Lesson 4-5: Servo Motors
+* Lesson 6-7: Robotic Arm Project
+* Lesson 8-9: Stepper Motors
+* Lesson 10-11: Windmill Project
 
-(list each lesson with main topic(s))
 
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+
+#### Summative Assessments
+* Robotic Arm Project
+* Windmill Project
+
+#### Formative Assessments
+* Hobby Motors Assignment
+* Servo Motors Assignment
+* Stepper Motors Assignment
 
 ---
