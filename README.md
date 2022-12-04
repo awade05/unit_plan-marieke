@@ -45,12 +45,13 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Lessons
 Total length: 2 Weeks
-* Lesson 1: Intro to Motors
-* Lesson 2-3: Hobby Motors
-* Lesson 4-5: Servo Motors
-* Lesson 6-7: Robotic Arm Project
-* Lesson 8-9: Stepper Motors
-* Lesson 10-11: Windmill Project
+* Lesson 1: Analog Making Motors Activity
+* Lesson 2: Intro to Digital Motors
+* Lesson 3-4: Hobby Motors
+* Lesson 5-6: Servo Motors
+* Lesson 7-8: Robotic Arm Project
+* Lesson 9-10: Stepper Motors
+* Lesson 11-12: Windmill Project
 
 
 ---
@@ -62,6 +63,7 @@ Total length: 2 Weeks
 * Windmill Project
 
 #### Formative Assessments
+* Making Motors Activity Assignment
 * Hobby Motors Assignment
 * Servo Motors Assignment
 * Stepper Motors Assignment
