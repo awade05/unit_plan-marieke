@@ -18,7 +18,7 @@ I chose to design this unit because it is a component that I wanted to include i
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+NY State Computer Science standards addressed in this unit
 
 * 9-12.IC.7 Career Paths: Investigate the use of computer science in multiple fields. 
 * 9-12.CT.4 Abstraction and Decomposition: Implement a program using a combination of student-defined and third-party functions to organize the computation.
@@ -28,7 +28,6 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 * Arduino Web Editor IDE (programmed in C++)
 * TinkerCad (Circuits simulation portion, which has simulated Arduinos that can be programmed in C++ or blocks)
 * [Elegoo Uno Super Starter Kit](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit) and 9V batteries
@@ -38,7 +37,6 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
 * [Mike Zitalo's Website and tutorials](https://sites.google.com/view/zphysics/arduino-page?authuser=0)
 * [Sparkfun tutorials](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics)
 * [Paul McWhorter tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
