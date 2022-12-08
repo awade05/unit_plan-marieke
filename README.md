@@ -18,7 +18,7 @@ I chose to design this unit because it is a component that I wanted to include i
 ---
 
 ### Standards Referenced
-NY State Computer Science standards addressed in this unit
+NY State Computer Science standards addressed in this unit:
 
 * 9-12.IC.7 Career Paths: Investigate the use of computer science in multiple fields. 
 * 9-12.CT.4 Abstraction and Decomposition: Implement a program using a combination of student-defined and third-party functions to organize the computation.
