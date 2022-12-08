@@ -41,6 +41,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 (include any links/books/readings to be used during this unit)
 * [Mike Zitalo's Website and tutorials](https://sites.google.com/view/zphysics/arduino-page?authuser=0)
 * [Sparkfun tutorials](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics)
+* [Paul McWhorter tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 ---
 
 ### Lessons
@@ -64,6 +65,7 @@ Total length: 13 Days/2.5 Weeks
 
 #### Formative Assessments
 * Making Motors Activity Assignment
+* Intro to Motors worksheet
 * Hobby Motors Assignment
 * Servo Motors Assignment
 * Stepper Motors Assignment
