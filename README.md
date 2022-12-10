@@ -54,7 +54,7 @@ Total length: 13 Days/2.5 Weeks
 * Lesson 3: Intro to Digital Motors
 * Lesson 4-5: Hobby Motors
 * Lesson 6-7: Servo Motors
-* Lesson 8-9: Robotic Arm Project
+* Lesson 8-9: Servo Robot Project
 * Lesson 10-11: Stepper Motors
 * Lesson 12-13: Windmill Project
 
