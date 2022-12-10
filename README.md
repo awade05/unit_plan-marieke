@@ -45,6 +45,7 @@ NY State Computer Science standards addressed in this unit:
 * [World's Simplest Motor kit](https://www.teachersource.com/product/worlds-simplest-motor)
 * [Simple motors commercial lesson plan](https://cdn.commercev3.net/cdn.teachersource.com/downloads/lesson_pdf/SS-11.pdf)
 * [DC Motors video](https://www.youtube.com/watch?v=CWulQ1ZSE3c&t=147s)
+* [Arduino servo projects](Servo projects: https://create.arduino.cc/projecthub/projects/tags/servo)
 * [Stepper motors video](https://www.youtube.com/watch?v=eyqwLiowZiU)
 ---
 
