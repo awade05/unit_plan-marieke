@@ -47,10 +47,11 @@ NY State Computer Science standards addressed in this unit:
 * [Simple motors commercial lesson plan](https://cdn.commercev3.net/cdn.teachersource.com/downloads/lesson_pdf/SS-11.pdf)
 * [DC Motors video](https://www.youtube.com/watch?v=CWulQ1ZSE3c&t=147s)
 * [Arduino cookbook](https://books.google.com/books/about/Arduino_Cookbook.html?id=nxE245VgtsUC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
-* [Arduino servo projects](https://create.arduino.cc/projecthub/projects/tags/servo)
-* [Stepper motors video](https://www.youtube.com/watch?v=eyqwLiowZiU)
 * [Tutorialspoint hobby motors tutorial](https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm#)
 * [Adafruit hobby motors tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/an-experiment)
+* [Arduino servo projects](https://create.arduino.cc/projecthub/projects/tags/servo)
+* [Stepper motors video](https://www.youtube.com/watch?v=eyqwLiowZiU)
+
 ---
 
 ### Lessons
